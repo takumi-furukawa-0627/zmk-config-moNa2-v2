@@ -33,7 +33,7 @@ layers:
   - M
   - ','
   - .
-  - {t: /, h: '5'}
+  - {t: /, h: '6'}
   - LCTRL
   - LEFT WIN
   - LEFT ALT
@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 LANGUAGE_1', h: '6'}
   - BACKSPACE
   - {t: ENTER, h: '3'}
-  - {t: RIGHT SHIFT, h: '6'}
+  - RIGHT SHIFT
   '1':
   - '1'
   - '2'
@@ -291,13 +291,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
